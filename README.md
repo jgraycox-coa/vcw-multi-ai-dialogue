@@ -2,13 +2,23 @@
 
 A replicable framework for stress-testing AI alignment proposals through structured multi-model dialogue.
 
+---
+
+## 📄 Paper Now Available
+
+**arXiv:** [http://arxiv.org/abs/2601.20604](http://arxiv.org/abs/2601.20604)
+
+**Repository:** [https://github.com/jgraycox-coa/vcw-multi-ai-dialogue](https://github.com/jgraycox-coa/vcw-multi-ai-dialogue)
+
+---
+
 ## Overview
 
 This repository contains the complete experimental materials for the paper:
 
 **"Dialogical Reasoning Across AI Architectures: A Multi-Model Framework for Testing AI Alignment Strategies"**
 
-Gray Cox, College of the Atlantic
+Gray Cox, College of the Atlantic (gcox@coa.edu)
 
 ## Repository Structure
 
@@ -54,7 +64,7 @@ vcw-multi-ai-dialogue/
 ### Installation
 
 ```bash
-git clone https://github.com/[username]/vcw-multi-ai-dialogue.git
+git clone https://github.com/jgraycox-coa/vcw-multi-ai-dialogue.git
 cd vcw-multi-ai-dialogue
 pip install -r requirements.txt
 ```
@@ -123,8 +133,9 @@ To test a different alignment proposal:
 @article{cox2026dialogical,
   title={Dialogical Reasoning Across AI Architectures: A Multi-Model Framework for Testing AI Alignment Strategies},
   author={Cox, Gray},
-  journal={arXiv preprint},
-  year={2026}
+  journal={arXiv preprint arXiv:2601.20604},
+  year={2026},
+  url={http://arxiv.org/abs/2601.20604}
 }
 ```
 
